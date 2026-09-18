@@ -1,4 +1,4 @@
-# Hello GitHub
+# Hello GitHub! Hello Local Repo!
 
 Hello from *git* on my computer
 
